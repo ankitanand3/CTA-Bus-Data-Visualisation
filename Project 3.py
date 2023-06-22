@@ -1,7 +1,3 @@
-# Ankit Anand
-# aanand35@uic.edu
-# I hereby attest that I have adhered to the rules for quizzes and projects as well as UIC’s Academic Integrity standards. Signed: Ankit Anand
-
 import pandas  # importing pandas
 import sqlite3  # importing sql
 import matplotlib.pyplot as plt  # importing matplotlib
